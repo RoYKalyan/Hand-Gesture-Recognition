@@ -107,7 +107,7 @@ def start_capture(gesture_label):
     """Start the capture_rssi function in a new thread."""
     global stop_capture, capture_thread
     stop_capture = False
-    file_path = f'data/{gesture_label}_rssi.json'
+    file_path = f'../data/{gesture_label}_rssi.json'
 
     # Initialize the file if it hasn't been initialized yet
     init(file_path)

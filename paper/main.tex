@@ -1,0 +1,640 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+
+
+\usepackage{wacv}
+\usepackage{times}
+\usepackage{color}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{subcaption}
+
+% \usepackage{hyper}
+% Include other packages here, before hyperref.
+
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+\usepackage[pagebackref=true,breaklinks=true,colorlinks,bookmarks=false]{hyperref}
+
+\wacvfinalcopy % *** Uncomment this line for the final submission
+
+\def\wacvPaperID{961} % *** Enter the wacv Paper ID here
+\def\httilde{\mbox{\tt\raisebox{-.5ex}{\symbol{126}}}}
+
+% Pages are numbered in submission mode, and unnumbered in camera-ready
+\ifwacvfinal\fi
+\setcounter{page}{1}
+
+
+
+\pagenumbering{arabic} % Optional: Set page numbering style to Arabic numerals
+\begin{document}
+
+
+
+%%%%%%%%% TITLE
+\title{
+Gesture Recognition Using Wi-Fi RSSI Signals for Human-Computer Interaction}
+
+% Authors at the same institution
+\author{
+Kalyan Roy \thanks{ Project Data \& Code : \url{https://github.com/RoYKalyan/Hand-Gesture-Recognition}}
+\hspace{0.3cm} Shilpa Kuppili 
+\hspace{0.3cm} Veerabhadra Rao Marellapudi 
+\hspace{0.3cm} 
+\\
+Yeshiva University, NYC, NY\\
+{\tt\small kroy@mail.yu.edu,skuppili@mail.yu.edu,vmarella@mail.yu.edu}
+}
+% Authors at different institutions
+
+\maketitle
+\ifwacvfinal\thispagestyle{empty}\fi
+
+
+%%%%%%%%% ABSTRACT
+\begin{abstract}
+    Wi-Fi-based gesture recognition is a burgeoning field aimed at enabling touchless interaction for smart environments and IoT systems. Using Received Signal Strength Indicator (RSSI) data, this research explores the classification of hand gestures such as swipe, push-pull, and circular motions. These gestures have significant potential applications, ranging from human-computer interaction to accessibility solutions.
+
+    Our study presents a comprehensive pipeline encompassing data collection, preprocessing, and machine learning modeling. Employing the Wisture dataset as a foundation, we developed a methodology for resampling, smoothing, and windowing RSSI data to create continuous time-series sequences suitable for training models. Logistic Regression, Random Forest, Support Vector Machine (SVM), Gradient Boosted Decision Trees (XGBoost), and Stacking Ensemble were evaluated, achieving promising accuracy rates across various gestures.
+
+    This work contributes to advancing touchless gesture recognition and demonstrates the potential of Wi-Fi RSSI signals in creating non-invasive, cost-effective, and scalable interaction systems. 
+
+    \textbf{Keywords:} Gesture Recognition, Wi-Fi RSSI, Touchless Interaction, Machine Learning, IoT.
+\end{abstract}
+
+
+
+%%%%%%%%% BODY TEXT
+
+\section{Introduction}
+
+Hand gesture recognition has emerged as a vital component for enabling intuitive and touchless human-computer interaction (HCI). Applications span various domains, including assistive technologies, smart homes, and human-vehicle interfaces. Traditional gesture recognition systems depend on hardware such as cameras, accelerometers, or wearable devices, which may raise concerns regarding cost, privacy, or operational limitations \cite{camera_based, sensor_based}. To overcome these constraints, Wi-Fi signals present an attractive alternative due to their ubiquity and ability to capture motion-induced variations in their Received Signal Strength Indicator (RSSI).
+
+Wi-Fi signals experience measurable perturbations when an object or a hand moves within their propagation path. These perturbations can serve as an effective medium for recognizing gestures. Recent advancements have shown that Wi-Fi-based gesture recognition systems are both feasible and practical. For instance, Wisture \cite{haseeb2020wisture} demonstrates the potential of RNN-based architectures for recognizing hand gestures using Wi-Fi signals. Other systems, such as WiGest \cite{abdelnasser2015wifi}, further establish Wi-Fi's capability to capture intricate gesture patterns. Building upon these foundations, this work proposes a scalable and efficient pipeline for hand gesture recognition leveraging standard Wi-Fi hardware and machine learning.
+
+The system focuses on three gestures: `swipe`, `push-pull`, and `circular`, with RSSI variations as the primary input feature. Data acquisition is performed in real time, where RSSI values are continuously monitored during gesture execution. Preprocessing includes resampling, smoothing, and interpolation to create a continuous time-series representation suitable for machine learning. Sliding window techniques are employed for feature extraction, generating fixed-size sequences that form the basis for model training.
+
+Several machine learning models were evaluated in this study, including Logistic Regression, Random Forest, Support Vector Machines (SVM), Gradient Boosted Decision Trees (GBDT), and Stacking Ensembles. The Random Forest and Stacking Ensemble models outperformed others, achieving high accuracy and robust F1-scores across all gestures. These findings align with earlier works, such as WiFi-based activity recognition systems for human safety assessment \cite{wang2017wifi}, further validating the effectiveness of Wi-Fi signals for gesture recognition.
+
+The key contributions of this work are:
+\begin{itemize}
+    \item Development of a scalable, hardware-agnostic pipeline for touchless hand gesture recognition using Wi-Fi signals.
+    \item Comprehensive preprocessing techniques to transform discrete RSSI measurements into a continuous and reliable time-series dataset.
+    \item A comparative analysis of machine learning models, highlighting ensemble-based methods for superior performance.
+    \item Evaluation of the system's robustness through extensive experimentation, demonstrating its potential for real-world deployment.
+\end{itemize}
+
+This paper is structured as follows: Section 2 reviews related work on Wi-Fi-based gesture recognition. Section 3 elaborates on the proposed methodology, including data acquisition, preprocessing, and model development. Section 4 presents the experimental setup and results, followed by discussions. Section 5 concludes the paper with suggestions for future research directions.
+
+
+\section{Related Work}\label{sec:related}
+
+The field of hand gesture recognition has seen remarkable advancements in recent years, with radio signals, particularly Wi-Fi, emerging as a pivotal technology. Unlike traditional methods reliant on vision-based sensors or wearable devices, Wi-Fi-based systems offer a ubiquitous and cost-effective alternative for touchless interaction.
+
+Early efforts utilized customized hardware for active sensing. For instance, the work in \cite{sensor_based} leveraged transmit and receive antennas along with Fourier/Doppler analysis to classify whole-body gestures, achieving a recognition accuracy of 94\%. Although effective, such approaches were limited by their dependence on specialized hardware and constrained operational environments. Similarly, antenna-array-based solutions, as demonstrated in \cite{antenna_array}, showcased innovative applications like through-wall imaging, yet remained infeasible for broader adoption due to their high hardware demands.
+
+Wi-Fi Received Signal Strength (RSS)-based solutions marked a significant shift towards practical implementations. Notably, Abdelnasser et al. \cite{abdelnasser2015wifi} introduced WiGest, a ubiquitous gesture recognition system using RSS data to achieve robust classification without modifying existing hardware. However, their reliance on statistical feature extraction and thresholding limited scalability for complex gesture sets. Subsequent work, such as \cite{rss_csi}, explored combining RSS with Channel State Information (CSI) to enhance feature granularity. While effective, the limited availability of CSI-compatible hardware, as noted in \cite{haseeb2020wisture}, restricts its applicability.
+
+Machine learning techniques further advanced the domain. K-Nearest Neighbors (KNN) was employed in studies like \cite{knn1, knn2}, where statistical features such as mean, variance, and peaks were computed over sliding windows. These methods demonstrated competitive accuracy, reaching 90\% for four hand gestures in certain cases. However, these approaches often required modified firmware or specialized software, undermining their generalizability. Similarly, wavelet-transform-based methods, as seen in \cite{dwt_method}, offered high accuracy but demanded extensive computational resources and high-frequency sampling.
+
+The advent of deep learning introduced transformative capabilities to gesture recognition. Convolutional Neural Networks (CNNs) have been used for activity classification, including driver behavior analysis using radio signals \cite{wang2017wifi}. While CNNs excel in spatial pattern recognition, their suitability for time-series data, such as RSSI measurements, is limited compared to Recurrent Neural Networks (RNNs). Haseeb et al. \cite{haseeb2020wisture} highlighted the potential of RNNs, particularly LSTM variants, for time-series-based hand gesture recognition, achieving state-of-the-art results without hardware modifications. Their Wisture framework demonstrated a scalable and efficient approach using traffic-induction techniques for high-frequency RSS measurements.
+
+Recent advancements have also explored ensemble learning for gesture recognition. Combining multiple classifiers, such as Random Forests and Gradient Boosted Decision Trees (GBDT), has been shown to improve accuracy and robustness in noisy environments \cite{ensemble_learning}. These methods align with the growing trend of leveraging hybrid models for enhanced generalization, particularly in real-world scenarios with varying signal conditions.
+
+Our work builds upon these foundations by addressing existing gaps and pushing the boundaries of Wi-Fi-based gesture recognition. Unlike earlier methods, we propose a unified pipeline that requires no hardware or firmware modifications. We adopt a machine-learning-first approach, evaluating a diverse set of models ranging from Logistic Regression to advanced ensemble methods such as Stacking. Additionally, we introduce preprocessing techniques, including smoothing and interpolation, to handle noise and missing data, creating a continuous time-series representation suitable for training. By leveraging sliding window techniques and comparative analysis of classifiers, our approach ensures scalability and accuracy across diverse environmental conditions.
+
+To summarize, while prior work has made significant strides in gesture recognition, challenges related to hardware dependencies, limited generalizability, and computational complexity persist. By adopting a pragmatic and machine-learning-driven approach, this paper contributes to bridging these gaps, paving the way for accessible and reliable touchless gesture recognition systems.
+
+
+
+\section{Data Collection}
+
+The cornerstone of any machine learning-driven solution lies in the quality and comprehensiveness of its data. For this work, we designed a custom data collection framework to capture Wi-Fi Received Signal Strength Indicator (RSSI) values during distinct hand gesture activities: \textit{Swipe}, \textit{Push-Pull}, and \textit{Circular}. This section elaborates on the methodology and setup used for collecting RSSI data in real-time.
+
+\subsection{Experimental Setup}
+
+The data collection process was conducted in a controlled indoor environment using a standard laptop with a Wi-Fi interface. The Wi-Fi interface interacted with the local access point, capturing RSSI data through the CoreWLAN library on macOS. The gestures were performed at varying distances (1–3 meters) and orientations relative to the access point to introduce diversity in the captured signals. Each gesture session lasted approximately 5 seconds to ensure a sufficient number of data points.
+
+\subsection{Data Acquisition Framework}
+
+We developed a Python-based application to facilitate real-time data acquisition. The system used the \texttt{pynput} library to detect user keypress events, signaling the start and end of a gesture session. Upon activation, the program continuously scanned the available Wi-Fi networks, recording the following attributes for each detected access point:
+
+\begin{itemize}
+    \item \textbf{Timestamp:} The precise time at which the RSSI value was captured.
+    \item \textbf{SSID:} The service set identifier of the Wi-Fi network.
+    \item \textbf{BSSID:} The unique MAC address of the Wi-Fi network's access point.
+    \item \textbf{RSSI:} The signal strength value measured in decibels (dBm).
+    \item \textbf{Gesture Label:} The corresponding gesture (Swipe, Push-Pull, or Circular) being performed.
+\end{itemize}
+
+The collected data was stored in a JSON format for each gesture type, with separate files for \textit{Swipe}, \textit{Push-Pull}, and \textit{Circular} gestures. Each entry in the JSON file contained a timestamp, RSSI value, and gesture label.
+
+\subsection{Challenges in Data Collection}
+
+While capturing RSSI data, several challenges were encountered:
+
+\begin{enumerate}
+    \item \textbf{Signal Noise:} Wi-Fi signals are inherently noisy, influenced by environmental factors such as reflections, interference, and multipath propagation. To mitigate these effects, preprocessing techniques like smoothing and interpolation were applied to the raw data.
+    \item \textbf{Variable Sampling Rate:} RSSI sampling rates varied depending on the Wi-Fi interface and environmental dynamics. Resampling the data to a fixed interval was crucial to create a consistent time-series dataset.
+    \item \textbf{Gesture Variability:} Subtle differences in user execution of gestures, such as speed and trajectory, introduced additional variation. This was addressed by collecting data from multiple participants and scenarios.
+\end{enumerate}
+
+\subsection{Dataset Statistics}
+
+A total of 4,547 gesture instances were recorded, distributed as follows:
+\begin{itemize}
+    \item \textbf{Swipe:} 1,449 instances
+    \item \textbf{Push-Pull:} 1,650 instances
+    \item \textbf{Circular:} 1,448 instances
+\end{itemize}
+
+The diversity in gesture execution, combined with the environmental variations, ensured that the dataset captured the complexities of real-world scenarios.
+
+\subsection{Significance of Data}
+
+The collected dataset serves as a foundation for training machine learning models capable of recognizing gestures from Wi-Fi RSSI data. By ensuring diversity and preprocessing the data effectively, the dataset offers a robust starting point for the development of touchless interaction systems. This approach aligns with recent works such as \cite{haseeb2020wisture}, which emphasize the importance of high-quality RSSI data in achieving state-of-the-art performance in gesture recognition.
+
+
+
+
+% \vspace{-0.5cm} % Adjust the value as needed
+
+
+
+
+\section{Methodology}
+
+In this section, we detail the pipeline for our hand gesture recognition system, emphasizing data preprocessing, exploratory data analysis (EDA), feature extraction, and model training. Each step is informed by best practices in the domain and leverages insights from prior research~\cite{haseeb2020wisture, abdelnasser2015wifi, wang2017wifi}.
+
+% \begin{figure*}[t]
+%   \centering
+%   \includegraphics[width=\textwidth, height=8.5cm]{figures/methodology_workflow.png}
+%   \caption{Workflow of the proposed methodology including data preprocessing, EDA, and machine learning pipelines.}
+%   \label{fig:methodology_diagram}
+% \end{figure*}
+
+
+\begin{figure*}[t]
+  \centering
+ \includegraphics[width=\textwidth,height=12cm ]{workflow.pdf}
+  \caption{Workflow of the proposed methodology including data preprocessing, EDA, and machine learning pipelines.}
+  \label{fig:workflow_diagram}
+\end{figure*}
+
+
+\subsection{Preprocessing}
+
+Preprocessing transforms raw RSSI data into structured formats suitable for machine learning. This step is crucial to address challenges such as irregular sampling, noise, and missing values~\cite{haseeb2020wisture, abdelnasser2015wifi}.
+
+\subsubsection{Resampling}
+Due to the irregular intervals of RSSI measurements~\cite{abdelnasser2015wifi}, we applied a fixed 10ms resampling rate:
+\begin{equation}
+    X_{resampled}(t) = \frac{\sum_{i=t-k}^{t+k} X_i}{2k+1}
+\end{equation}
+Here, \( k \) determines the window size, ensuring uniform data intervals for machine learning models.
+
+\subsubsection{Data Smoothing}
+RSSI data often includes high-frequency noise, degrading model performance~\cite{haseeb2020wisture}. A 3-point moving average smooths these fluctuations:
+\begin{equation}
+    X_{smoothed}(t) = \frac{X(t-1) + X(t) + X(t+1)}{3}
+\end{equation}
+
+\subsubsection{Interpolation}
+Missing values arise due to environmental interference or device limitations~\cite{wang2017wifi}. Linear interpolation fills these gaps to maintain data continuity:
+\begin{equation}
+    X_{interpolated}(t) = X(t_1) + \frac{X(t_2) - X(t_1)}{t_2 - t_1} (t - t_1)
+\end{equation}
+where \( t_1 \) and \( t_2 \) are the timestamps before and after the missing value.
+
+\subsubsection{Windowing}
+Temporal dependencies are critical for gesture recognition. Sliding windows~\cite{haseeb2020wisture} partition the data into fixed-length sequences:
+\begin{equation}
+    W_i = \{X(t), X(t+1), \ldots, X(t+n)\}, \; \text{where } n = 100
+\end{equation}
+We used a window size of 1 second with a 50\% overlap (step size of 0.5 seconds).
+
+\subsection{Exploratory Data Analysis}
+
+EDA was conducted to understand the data distribution and identify patterns or anomalies~\cite{abdelnasser2015wifi, wang2017wifi}. Table~\ref{table:eda_summary} summarizes key statistics for each gesture. Line plots and histograms (Figure~\ref{fig:eda_charts}) reveal temporal trends and distribution characteristics.
+
+\begin{table}[h]
+\centering
+\caption{EDA Summary of RSSI Data for Each Gesture}
+\label{table:eda_summary}
+\begin{tabular}{|l|c|c|c|c|}
+\hline
+Gesture     & Count & Mean  & Std Dev & Min-Max \\ \hline
+Swipe       & 1449  & -52.94 & 32.28   & -96 to -21 \\ \hline
+Push-Pull   & 1650  & -50.19 & 30.93   & -96 to -21 \\ \hline
+Circular    & 1448  & -55.16 & 30.87   & -96 to -20 \\ \hline
+\end{tabular}
+\end{table}
+
+\begin{figure*}[t]
+  \centering
+
+  % First row of figures
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/swipe_rssi_trends.png}
+    \caption{Swipe Gesture: RSSI trends over time.}
+    \label{fig:swipe_rssi_trends}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/swipe_rssi_distribution.png}
+    \caption{Swipe Gesture: RSSI distribution.}
+    \label{fig:swipe_rssi_distribution}
+  \end{subfigure}
+
+  \vspace{0.5cm} % Space between rows
+
+  % Second row of figures
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/push_pull_rssi_trends.png}
+    \caption{Push-Pull Gesture: RSSI trends over time.}
+    \label{fig:push_pull_rssi_trends}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/push_pull_rssi_distribution.png}
+    \caption{Push-Pull Gesture: RSSI distribution.}
+    \label{fig:push_pull_rssi_distribution}
+  \end{subfigure}
+
+  \vspace{0.5cm} % Space between rows
+
+  % Third row of figures
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/circular_rssi_trends.png}
+    \caption{Circular Gesture: RSSI trends over time.}
+    \label{fig:circular_rssi_trends}
+  \end{subfigure}
+  \hfill
+  \begin{subfigure}{0.45\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{figures/circular_rssi_distribution.png}
+    \caption{Circular Gesture: RSSI distribution.}
+    \label{fig:circular_rssi_distribution}
+  \end{subfigure}
+
+  \caption{EDA Charts for Hand Gestures: RSSI trends over time and distributions for each gesture type.}
+  \label{fig:eda_charts}
+  \label{fig:eda_charts}
+\end{figure*}
+
+
+
+
+\subsection{Feature Extraction}
+
+Fixed-length sequences were extracted to preserve temporal relationships. Features were normalized to improve model convergence:
+\begin{equation}
+    X_{normalized} = \frac{X - \mu}{\sigma}
+\end{equation}
+where \( \mu \) and \( \sigma \) are the mean and standard deviation of the RSSI values.
+
+\subsection{Machine Learning Pipelines}
+
+Multiple machine learning models were implemented to classify gestures. Models included Logistic Regression, Random Forest, SVM, Gradient Boosted Decision Trees, and Stacking Ensembles. Training was conducted using stratified 70-30 train-test splits.
+
+\subsubsection{Evaluation Metrics}
+Performance evaluation was conducted using the following metrics:
+\begin{itemize}
+    \item \textbf{Accuracy:} Fraction of correctly classified instances:
+    \begin{equation}
+        \text{Accuracy} = \frac{\text{TP} + \text{TN}}{\text{TP} + \text{TN} + \text{FP} + \text{FN}}
+    \end{equation}
+    
+    \item \textbf{Precision:} Proportion of true positives among predicted positives:
+    \begin{equation}
+        \text{Precision} = \frac{\text{TP}}{\text{TP} + \text{FP}}
+    \end{equation}
+    
+    \item \textbf{Recall:} Proportion of true positives among actual positives:
+    \begin{equation}
+        \text{Recall} = \frac{\text{TP}}{\text{TP} + \text{FN}}
+    \end{equation}
+    
+    \item \textbf{F1-Score:} Harmonic mean of precision and recall:
+    \begin{equation}
+        \text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
+    \end{equation}
+    
+    \item \textbf{Confusion Matrix:} Visual representation of true and predicted labels for each gesture.
+\end{itemize}
+
+
+
+\cite{haseeb2020wisture, abdelnasser2015wifi, wang2017wifi}
+
+
+\section{Results}
+
+This section presents the results obtained from each classification model, focusing on their individual performance metrics without any comparative analysis. Each model's accuracy, precision, recall, and F1-scores are detailed along with confusion matrices for further insights.
+
+\subsection{Logistic Regression}
+
+Logistic Regression served as the baseline model. Despite its simplicity, it captured significant patterns in the data.
+
+\begin{table}[h]
+\small
+\begin{center}
+\caption{Performance Metrics for Logistic Regression}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+3.3mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Gesture} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} & \textbf{Support} \\ \hline
+Swipe            & 0.76               & 0.93            & 0.84              & 1241             \\ \hline
+Push-Pull        & 0.90               & 0.67            & 0.77              & 1592             \\ \hline
+Circular         & 0.74               & 0.86            & 0.79              & 677              \\ \hline
+\end{tabular}}
+\end{center}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/confusion_matrix_lr.png}
+  \caption{Confusion Matrix for Logistic Regression.}
+  \label{fig:confusion_matrix_lr}
+\end{figure}
+
+\subsection{Random Forest Classifier}
+
+The Random Forest classifier, leveraging ensemble learning, achieved consistently high performance.
+
+\begin{table}[h]
+\small
+\begin{center}
+\caption{Performance Metrics for Random Forest Classifier}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+3.3mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Gesture} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} & \textbf{Support} \\ \hline
+Swipe            & 0.87               & 0.95            & 0.91              & 1241             \\ \hline
+Push-Pull        & 0.95               & 0.89            & 0.92              & 1592             \\ \hline
+Circular         & 0.96               & 0.93            & 0.95              & 677              \\ \hline
+\end{tabular}}
+\end{center}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/confusion_matrix_rf.png}
+  \caption{Confusion Matrix for Random Forest Classifier.}
+  \label{fig:confusion_matrix_rf}
+\end{figure}
+
+\subsection{Support Vector Machine (SVM)}
+
+SVM with an RBF kernel effectively handled the non-linear relationships in the dataset.
+
+\begin{table}[h]
+\small
+\begin{center}
+\caption{Performance Metrics for Support Vector Machine}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+3.3mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Gesture} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} & \textbf{Support} \\ \hline
+Swipe            & 0.73               & 0.97            & 0.84              & 1241             \\ \hline
+Push-Pull        & 0.96               & 0.76            & 0.84              & 1592             \\ \hline
+Circular         & 0.97               & 0.88            & 0.92              & 677              \\ \hline
+\end{tabular}}
+\end{center}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/confusion_matrix_svm.png}
+  \caption{Confusion Matrix for Support Vector Machine.}
+  \label{fig:confusion_matrix_svm}
+\end{figure}
+
+\subsection{Gradient Boosted Decision Trees (XGBoost)}
+
+XGBoost excelled in capturing non-linear relationships in the data using its gradient boosting mechanism.
+
+\begin{table}[h]
+\small
+\begin{center}
+\caption{Performance Metrics for XGBoost}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+3.3mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Gesture} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} & \textbf{Support} \\ \hline
+Swipe            & 0.86               & 0.95            & 0.90              & 1241             \\ \hline
+Push-Pull        & 0.90               & 0.88            & 0.89              & 1592             \\ \hline
+Circular         & 0.98               & 0.87            & 0.92              & 677              \\ \hline
+\end{tabular}}
+\end{center}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/confusion_matrix_xgb.png}
+  \caption{Confusion Matrix for XGBoost.}
+  \label{fig:confusion_matrix_xgb}
+\end{figure}
+
+\subsection{Stacking Ensemble}
+
+The stacking ensemble combined multiple classifiers, producing reliable predictions.
+
+\begin{table}[h]
+\small
+\begin{center}
+\caption{Performance Metrics for Stacking Ensemble}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+3.3mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Gesture} & \textbf{Precision} & \textbf{Recall} & \textbf{F1 Score} & \textbf{Support} \\ \hline
+Swipe            & 0.88               & 0.94            & 0.91              & 1241             \\ \hline
+Push-Pull        & 0.94               & 0.90            & 0.92              & 1592             \\ \hline
+Circular         & 0.96               & 0.94            & 0.95              & 677              \\ \hline
+\end{tabular}}
+\end{center}
+\end{table}
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/confusion_matrix_stacking.png}
+  \caption{Confusion Matrix for Stacking Ensemble.}
+  \label{fig:confusion_matrix_stacking}
+\end{figure}
+
+
+\section{Discussion of Results}
+
+This section delves into the comparative analysis of the models evaluated in this study. We discuss the strengths and weaknesses of each model in terms of accuracy, precision, recall, and F1-score across the three gestures (Swipe, Push-Pull, and Circular). Furthermore, insights are drawn from confusion matrices to highlight areas of misclassification.
+
+\subsection{Comparative Performance Analysis}
+
+The evaluation of models revealed varying levels of effectiveness across the gestures. Table~\ref{tab:comparative_metrics} provides a consolidated view of key performance metrics for all models.
+
+\begin{table*}[h]
+\small
+\begin{center}
+\caption{Comparative Performance Metrics for All Models}
+\vspace{0.1cm}
+\setlength{\tabcolsep}{+2.0mm}{
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+\textbf{Model}          & \textbf{Accuracy (\%)} & \textbf{Precision} & \textbf{Recall} & \textbf{F1-Score} \\ \hline
+Logistic Regression     & 80.00                 & 0.82               & 0.80            & 0.80              \\ \hline
+Random Forest           & 92.17                 & 0.92               & 0.92            & 0.92              \\ \hline
+Support Vector Machine  & 85.58                 & 0.88               & 0.86            & 0.86              \\ \hline
+XGBoost                 & 89.91                 & 0.90               & 0.90            & 0.90              \\ \hline
+Stacking Ensemble       & 91.82                 & 0.92               & 0.92            & 0.92              \\ \hline
+\end{tabular}}
+\label{tab:comparative_metrics}
+\end{center}
+\end{table*}
+
+
+\subsection{Gesture-Specific Insights}
+
+To understand model-specific behavior, we analyze performance metrics for each gesture:
+
+\textbf{Swipe Gesture:}
+Random Forest and Stacking Ensemble exhibited the best precision and recall (0.91 and 0.94, respectively).
+Logistic Regression struggled, with an F1-score of 0.84, primarily due to false positives in other gesture categories.
+
+\textbf{Push-Pull Gesture:}
+XGBoost and Stacking Ensemble models provided the most balanced performance, with F1-scores of 0.89 and 0.92, respectively.
+Support Vector Machine performed well but showed lower recall due to some misclassifications as Circular gestures.
+
+\textbf{Circular Gesture:}
+Random Forest and Stacking Ensemble excelled, achieving F1-scores of 0.95, demonstrating their ability to correctly classify complex gesture patterns.
+
+\subsection{Confusion Matrix Analysis}
+
+Confusion matrices provided deeper insights into model performance. For example:
+- Logistic Regression struggled with the Push-Pull gesture, misclassifying many instances as Swipe.
+- Random Forest showed balanced performance, with minimal misclassifications across all gestures.
+- Support Vector Machine had higher misclassification rates for Push-Pull and Circular gestures compared to Random Forest and Stacking Ensemble.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/comparative_accuracy_chart.png}
+  \caption{Comparative Accuracy Chart for All Models.}
+  \label{fig:comparative_accuracy}
+\end{figure}
+
+
+\subsection{Key Observations}
+
+1. \textbf{Model Robustness:}
+   Random Forest and Stacking Ensemble consistently outperformed others, showcasing their robustness in handling varying gesture complexities.
+   Logistic Regression, while simple, served as an effective baseline but lagged in overall performance.
+
+2. \textbf{Performance Trade-offs:}
+   Support Vector Machine demonstrated a good balance between precision and recall but was slightly overshadowed by ensemble methods.
+   XGBoost offered competitive performance, particularly for Push-Pull gestures.
+
+3. \textbf{Impact of Preprocessing:}
+   The 3-point moving average and interpolation during preprocessing likely enhanced the performance of ensemble models by smoothing RSSI variations and mitigating noise.
+
+\subsection{Charts for Gesture-Level Performance}
+
+To visually represent gesture-level performance, Figure~\ref{fig:f1_per_gesture} showcases the F1-scores for each model across all gestures.
+
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.45\textwidth]{figures/f1_per_gesture_chart.png}
+  \caption{F1-Scores for Each Gesture Across All Models.}
+  \label{fig:f1_per_gesture}
+\end{figure}
+
+\subsection{Limitations}
+
+While the results are promising, the dataset size was limited, which could impact generalizability. Future work will focus on expanding the dataset and exploring deep learning approaches.
+
+
+
+\section{Future Directions}
+
+The findings of this study demonstrate the feasibility and effectiveness of using Wi-Fi RSSI data for gesture recognition. However, several areas remain unexplored and provide opportunities for further research.
+
+\subsection{Expanding the Dataset}
+
+One of the primary limitations of this study was the relatively small dataset size. Future work could focus on:
+- Collecting larger and more diverse datasets under different environmental conditions, such as varying distances, obstructions, and signal interference~\cite{wang2017wifi}.
+- Including additional gestures to expand the classification space while ensuring robust model performance~\cite{haseeb2020wisture}.
+
+\subsection{Exploration of Advanced Models}
+
+Although traditional machine learning models like Random Forest and ensemble methods performed well, future work could explore:
+- Deep learning architectures, such as Long Short-Term Memory (LSTM) networks, for capturing sequential dependencies in time-series RSSI data~\cite{haseeb2020wisture}.
+- Hybrid models combining Convolutional Neural Networks (CNNs) for feature extraction and Recurrent Neural Networks (RNNs) for temporal pattern recognition~\cite{wang2017wifi}.
+- Attention mechanisms to focus on critical temporal segments for gesture classification~\cite{vaswani2017attention}.
+
+\subsection{Real-Time Implementation and Optimization}
+
+Another important direction involves transitioning from offline analysis to real-time systems:
+- Developing lightweight models capable of running on mobile devices with limited computational resources~\cite{abdelnasser2015wifi}.
+- Optimizing the preprocessing pipeline for on-device signal smoothing, resampling, and windowing to ensure real-time responsiveness~\cite{haseeb2020wisture}.
+
+\subsection{Generalization Across Devices}
+
+This study focused on Wi-Fi RSSI data collected from specific devices. To improve generalization:
+- Investigating device-agnostic models by incorporating domain adaptation techniques to reduce performance discrepancies across different devices~\cite{wang2017wifi}.
+- Exploring transfer learning approaches to leverage pre-trained models for new devices and environments~\cite{pan2010survey}.
+
+\subsection{Integration with Broader Systems}
+
+Wi-Fi-based gesture recognition systems have significant potential for integration into broader applications:
+- Incorporating gesture recognition as part of smart home automation systems for intuitive control of IoT devices~\cite{wang2017wifi}.
+- Exploring its use in healthcare monitoring for contactless detection of patient activities and abnormalities~\cite{abdelnasser2015wifi}.
+- Enhancing autonomous vehicle systems by integrating Wi-Fi gesture recognition with existing sensing technologies~\cite{wang2017wifi}.
+
+\subsection{Addressing Privacy Concerns}
+
+Since Wi-Fi RSSI data can be sensitive, future work should consider:
+- Implementing privacy-preserving algorithms for data collection and processing~\cite{dwork2014algorithmic}.
+- Studying ethical implications and ensuring compliance with data protection regulations, such as GDPR, in real-world deployments.
+
+\subsection{Incorporating Channel State Information (CSI)}
+
+Channel State Information (CSI) provides more detailed channel-level data compared to RSSI. Future work could:
+- Investigate the use of CSI for improved accuracy and robustness, especially in complex environments~\cite{wang2017wifi}.
+- Develop models capable of simultaneously utilizing RSSI and CSI to maximize gesture recognition performance~\cite{haseeb2020wisture}.
+
+\subsection{Benchmarking and Community Contribution}
+
+To facilitate progress in this domain:
+- Establishing standardized benchmarks and metrics for Wi-Fi-based gesture recognition systems~\cite{abdelnasser2015wifi}.
+- Sharing datasets, source codes, and pre-trained models with the research community to encourage reproducibility and further innovation~\cite{haseeb2020wisture}.
+
+\section{Conclusions}
+
+This study has demonstrated the feasibility and effectiveness of using Wi-Fi Received Signal Strength Indicator (RSSI) data for hand gesture recognition, a contactless and hardware-agnostic approach. By leveraging advanced preprocessing techniques such as resampling, smoothing, and windowing, we transformed raw RSSI data into structured sequences suitable for machine learning models. The experimental results have shown that models like Random Forest, XGBoost, and Stacking Ensembles outperform traditional methods, achieving robust classification performance with over 90\% accuracy in most cases.
+
+Our findings underscore the potential of Wi-Fi signals as a low-cost and ubiquitous medium for gesture recognition. Unlike Channel State Information (CSI)-based approaches, which often require specialized hardware, this study relies on standard Wi-Fi RSSI measurements, making the solution deployable on commodity devices without modifications. Furthermore, the inclusion of exploratory data analysis (EDA) revealed critical patterns in the RSSI data, providing insights into its temporal and statistical properties.
+
+Despite the promising results, this work opens avenues for future exploration. Challenges such as scalability across diverse environments, real-time implementation, and privacy preservation remain significant. The integration of this technology into broader applications, such as smart home systems and healthcare monitoring, holds substantial promise.
+
+By sharing our datasets and methodological framework, we aim to contribute to the growing body of research in Wi-Fi-based gesture recognition, enabling further advancements in this field. Future research can build upon this foundation, exploring innovative algorithms and applications to realize the full potential of contactless gesture recognition systems.
+
+
+In conclusion, this study serves as a stepping stone for the development of accessible and scalable gesture recognition systems, demonstrating the viability of RSSI-based methods in addressing real-world challenges. We hope this work inspires further innovation in the intersection of wireless communications and human-computer interaction.
+
+{\small
+\bibliographystyle{plain}
+\bibliography{egbib}
+}
+
+\end{document}

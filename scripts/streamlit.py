@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import joblib
-import os
+from streamlit_js_eval import streamlit_js_eval as st_js_eval
 
 # Set Streamlit page configuration - MUST BE FIRST
 st.set_page_config(
@@ -17,28 +17,12 @@ st.set_page_config(
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 
 # Load the trained model
-model_path = os.path.join(os.getcwd(), "models/random_forest_model.pkl")
+model_path = "models/random_forest_model.pkl"
 if os.path.exists(model_path):
     selected_model = joblib.load(model_path)
 else:
     st.error(f"Model file not found at {model_path}. Ensure the file exists.")
     st.stop()
-
-# RSSI data collection using `wifi-scanner` package
-def get_live_rssi_data():
-    """Capture RSSI data using wifi-scanner (cross-platform)."""
-    try:
-        import wifi_scanner
-        networks = wifi_scanner.scan()
-        rssi_values = [network["rssi"] for network in networks]
-        if rssi_values:
-            avg_rssi = np.mean(rssi_values)
-            return avg_rssi
-        else:
-            return -100  # Default if no networks are found
-    except Exception as e:
-        st.error(f"Error capturing RSSI data: {e}")
-        return -100
 
 # Preprocess live RSSI data
 def preprocess_live_rssi(data):
@@ -78,11 +62,27 @@ def predict_gesture(sequence, model):
 # Main Streamlit application
 def main():
     st.title("Gesture Prediction with Real-Time RSSI Data")
-    st.markdown("This app uses Wi-Fi signal strength (RSSI) data to predict gestures in real-time.")
+    st.markdown(
+        "This app uses real-time Wi-Fi signal strength (RSSI) data captured directly from your browser to predict gestures in real-time."
+    )
 
+    # Execute JavaScript to fetch network signal strength
+    js_code = """
+    async function getSignalStrength() {
+        if ('connection' in navigator) {
+            return navigator.connection.downlink || -100;
+        }
+        return -100; // Default if no API available
+    }
+    getSignalStrength();
+    """
+    signal_strength = st_js_eval(js_code, key="network_signal")
+
+    if signal_strength is not None:
+        st.info(f"Captured Signal Strength: {signal_strength} dBm")
+
+    # Capture and process data
     st.markdown("Press the 'Start Capture' button to begin capturing live RSSI data.")
-    
-    # Create placeholders for the chart and prediction
     chart_placeholder = st.empty()
     prediction_placeholder = st.empty()
 
@@ -92,13 +92,11 @@ def main():
 
     # Capture control
     capturing = False
-
-    # Start button
     if st.button("Start Capture"):
         capturing = True
 
     while capturing and len(rssi_series) < 101:
-        new_rssi = get_live_rssi_data()
+        new_rssi = signal_strength if signal_strength is not None else -100
         current_time = pd.Timestamp.now()
 
         # Append new data

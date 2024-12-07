@@ -76,7 +76,7 @@ def main():
     }
     getSignalStrength();
     """
-    signal_strength = st_js_eval(js_code, key="network_signal")
+    signal_strength = st_js_eval(js_code, label="Fetch Signal Strength", key="network_signal")
 
     if signal_strength is not None:
         st.info(f"Captured Signal Strength: {signal_strength} Mbps")

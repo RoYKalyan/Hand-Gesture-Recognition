@@ -1,22 +1,28 @@
 import time
-import os
 import numpy as np
 import pandas as pd
 import streamlit as st
 import plotly.express as px
 import joblib
-from collections import deque
-from scapy.all import sniff, Dot11  # Cross-platform Wi-Fi scanning alternative
+from scapy.all import sniff, Dot11
+import os
+
+# Set Streamlit page configuration - MUST BE FIRST
+st.set_page_config(
+    page_title="Gesture Prediction with Real-Time RSSI Data",
+    page_icon="📡",
+    layout="wide",
+)
 
 # Gesture definitions
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 
 # Load the trained model
-#model_path = "../models/random_forest_model.pkl"
 model_path = os.path.join(os.getcwd(), "models/random_forest_model.pkl")
-st.write(f"Loading model from: {model_path}")
-selected_model = joblib.load(model_path)
-
+if os.path.exists(model_path):
+    selected_model = joblib.load(model_path)
+else:
+    st.error(f"Model file not found at {model_path}. Ensure the file exists.")
 
 # RSSI data collection function
 def get_live_rssi_data():
@@ -80,11 +86,6 @@ def predict_gesture(sequence, model):
 
 # Main Streamlit application
 def main():
-    st.set_page_config(
-        page_title="Gesture Prediction with Real-Time RSSI Data",
-        page_icon="📡",
-        layout="wide",
-    )
     st.title("Gesture Prediction with Real-Time RSSI Data")
     st.markdown("Press the 'Start Capture' button to begin capturing live RSSI data. The capture will automatically stop after collecting 101 data points, and a gesture prediction will be displayed.")
 

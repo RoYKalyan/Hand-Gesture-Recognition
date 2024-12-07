@@ -3,4 +3,4 @@ numpy
 pandas
 plotly
 joblib
-wifi-scanner
+streamlit-js-eval

@@ -1,4 +1,5 @@
 import time
+import os
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -11,8 +12,11 @@ from scapy.all import sniff, Dot11  # Cross-platform Wi-Fi scanning alternative
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 
 # Load the trained model
-model_path = "../models/random_forest_model.pkl"
+#model_path = "../models/random_forest_model.pkl"
+model_path = os.path.abspath("../models/random_forest_model.pkl")
+st.write(f"Loading model from: {model_path}")
 selected_model = joblib.load(model_path)
+
 
 # RSSI data collection function
 def get_live_rssi_data():

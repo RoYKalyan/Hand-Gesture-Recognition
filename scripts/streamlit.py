@@ -13,7 +13,7 @@ GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 
 # Load the trained model
 #model_path = "../models/random_forest_model.pkl"
-model_path = os.path.abspath("../models/random_forest_model.pkl")
+model_path = os.path.join(os.getcwd(), "models/random_forest_model.pkl")
 st.write(f"Loading model from: {model_path}")
 selected_model = joblib.load(model_path)
 

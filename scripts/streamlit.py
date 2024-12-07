@@ -5,13 +5,10 @@ import streamlit as st
 import plotly.express as px
 import joblib
 from collections import deque
-from CoreWLAN import CWWiFiClient
+from scapy.all import sniff, Dot11  # Cross-platform Wi-Fi scanning alternative
 
 # Gesture definitions
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
-
-# Initialize Wi-Fi client
-wifi_interface = CWWiFiClient.sharedWiFiClient().interface()
 
 # Load the trained model
 model_path = "../models/random_forest_model.pkl"
@@ -19,10 +16,20 @@ selected_model = joblib.load(model_path)
 
 # RSSI data collection function
 def get_live_rssi_data():
-    """Capture RSSI data using the CoreWLAN library."""
+    """Capture RSSI data using scapy."""
     try:
-        networks, _ = wifi_interface.scanForNetworksWithName_error_(None, None)
-        rssi_values = [network.rssiValue() for network in networks]
+        rssi_values = []
+
+        def packet_handler(pkt):
+            if pkt.haslayer(Dot11):
+                if pkt.type == 0 and pkt.subtype == 8:  # Beacon frame
+                    rssi = pkt.dBm_AntSignal
+                    if rssi is not None:
+                        rssi_values.append(rssi)
+
+        # Capture packets for a short duration
+        sniff(prn=packet_handler, timeout=2, iface="wlan0mon", store=False)
+        
         if rssi_values:
             avg_rssi = np.mean(rssi_values)
             return avg_rssi

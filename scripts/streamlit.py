@@ -1,10 +1,10 @@
 import streamlit as st
+import time
 import numpy as np
 import pandas as pd
-import joblib
 import plotly.express as px
+import joblib
 import os
-import time
 
 # Gesture definitions
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
@@ -54,7 +54,7 @@ def preprocess_live_rssi(data):
         df.index = pd.date_range(start="2024-01-01", periods=len(df), freq="10ms")
         df_resampled = df.resample("10ms").mean()
         df_resampled["rssi"] = df_resampled["rssi"].rolling(window=3, min_periods=1).mean()
-        df_resampled["rssi"] = df_resampled["rssi"].interpolate()
+        df_resampled["rssi"] = df_resampled["rssi"].interpolate().fillna(-100)  # Replace NaNs
         sequence = df_resampled["rssi"].values
         if len(sequence) < 101:
             sequence = np.pad(sequence, (0, 101 - len(sequence)), mode="constant", constant_values=-100)
@@ -86,31 +86,37 @@ def main():
 
     # Fetch signal strength
     signal_strength = fetch_signal_strength()
-    if signal_strength != -100:
-        st.info(f"Captured Signal Strength: {signal_strength} Mbps")
+    if signal_strength == -100:
+        st.warning("Signal strength is -100. Please provide a valid input manually.")
 
     # Initialize data containers
     time_series = []
     rssi_series = []
 
+    # Placeholder for dynamic graph updates
+    chart_placeholder = st.empty()
+
     # Start gesture prediction
     if st.button("Start Capture"):
         st.markdown("Capturing RSSI data...")
 
-        while len(rssi_series) < 101:
-            rssi_series.append(signal_strength)  # Append the same signal repeatedly for demo
+        # Capture 101 data points
+        for i in range(101):
+            rssi_series.append(signal_strength)
             time_series.append(pd.Timestamp.now())
+
+            # Update graph dynamically
+            df = pd.DataFrame({"Time": time_series, "RSSI": rssi_series})
+            fig = px.line(df, x="Time", y="RSSI", title="Live RSSI Data")
+            chart_placeholder.plotly_chart(fig)
+
+            # Simulate RSSI data collection interval
             time.sleep(0.1)
 
         # Preprocess and predict
         sequence = preprocess_live_rssi(rssi_series)
         predicted_gesture = predict_gesture(sequence, selected_model)
         st.success(f"Predicted Gesture: **{predicted_gesture}**")
-
-        # Plot RSSI data
-        df = pd.DataFrame({"Time": time_series, "RSSI": rssi_series})
-        fig = px.line(df, x="Time", y="RSSI", title="Captured RSSI Data")
-        st.plotly_chart(fig)
 
 if __name__ == "__main__":
     main()

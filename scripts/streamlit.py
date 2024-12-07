@@ -1,10 +1,10 @@
 import streamlit as st
-import time
 import numpy as np
 import pandas as pd
 import plotly.express as px
 import joblib
 from streamlit_js_eval import streamlit_js_eval as st_js_eval
+import os
 
 # Set Streamlit page configuration - MUST BE FIRST
 st.set_page_config(
@@ -79,7 +79,7 @@ def main():
     signal_strength = st_js_eval(js_code, key="network_signal")
 
     if signal_strength is not None:
-        st.info(f"Captured Signal Strength: {signal_strength} dBm")
+        st.info(f"Captured Signal Strength: {signal_strength} Mbps")
 
     # Capture and process data
     st.markdown("Press the 'Start Capture' button to begin capturing live RSSI data.")

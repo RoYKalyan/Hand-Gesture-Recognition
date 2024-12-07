@@ -1,6 +1,6 @@
+streamlit
 numpy
 pandas
-streamlit
 plotly
 joblib
-CoreWLAN
+scapy

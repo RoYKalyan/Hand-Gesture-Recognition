@@ -6,6 +6,7 @@ import plotly.express as px
 import joblib
 from pywifi import PyWiFi, const
 import os
+import subprocess
 
 # Set Streamlit page configuration - MUST BE FIRST
 st.set_page_config(
@@ -17,19 +18,40 @@ st.set_page_config(
 # Gesture definitions
 GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 
-# Load the trained model
-model_path = os.path.join(os.getcwd(), "models/random_forest_model.pkl")
-if os.path.exists(model_path):
-    selected_model = joblib.load(model_path)
-else:
-    st.error(f"Model file not found at {model_path}. Ensure the file exists.")
+# Check and ensure wpa_supplicant is installed and running
+def check_wpasupplicant():
+    """Check if wpa_supplicant is installed and running."""
+    try:
+        # Check if wpa_supplicant exists
+        result = subprocess.run(["which", "wpa_supplicant"], capture_output=True, text=True)
+        if result.returncode != 0:
+            st.error("`wpasupplicant` is not installed on your system. Please install it using:")
+            st.code("sudo apt-get install wpasupplicant", language="bash")
+            return False
+        
+        # Check if wpa_supplicant service is running
+        result = subprocess.run(["sudo", "service", "wpa_supplicant", "status"], capture_output=True, text=True)
+        if "active (running)" not in result.stdout:
+            st.warning("`wpa_supplicant` is installed but not running. Start it using:")
+            st.code("sudo service wpa_supplicant start", language="bash")
+            return False
+
+        st.success("`wpasupplicant` is installed and running.")
+        return True
+    except Exception as e:
+        st.error(f"An error occurred while checking `wpasupplicant`: {e}")
+        return False
 
 # RSSI data collection function using pywifi
 def get_live_rssi_data():
     """Capture RSSI data using pywifi."""
     try:
         wifi = PyWiFi()
-        iface = wifi.interfaces()[0]  # Select the first Wi-Fi interface
+        interfaces = wifi.interfaces()
+        if not interfaces:
+            raise Exception("No Wi-Fi interfaces found. Ensure your Wi-Fi is enabled.")
+        
+        iface = interfaces[0]  # Select the first Wi-Fi interface
         iface.scan()  # Start scanning for networks
         time.sleep(1)  # Wait for scan results to populate
         scan_results = iface.scan_results()
@@ -40,6 +62,9 @@ def get_live_rssi_data():
             return avg_rssi
         else:
             return -100  # Default if no networks are found
+    except FileNotFoundError as e:
+        st.error(f"Error capturing RSSI data: {e}. Ensure 'wpa_supplicant' is installed and running.")
+        return -100
     except Exception as e:
         st.error(f"Error capturing RSSI data: {e}")
         return -100
@@ -82,7 +107,23 @@ def predict_gesture(sequence, model):
 # Main Streamlit application
 def main():
     st.title("Gesture Prediction with Real-Time RSSI Data")
-    st.markdown("Press the 'Start Capture' button to begin capturing live RSSI data. The capture will automatically stop after collecting 101 data points, and a gesture prediction will be displayed.")
+    st.markdown("This app uses Wi-Fi signal strength (RSSI) data to predict gestures in real-time.")
+    st.info("Before starting, ensure that `wpasupplicant` is installed and running on your system.")
+
+    # Check wpa_supplicant status
+    ready = check_wpasupplicant()
+    if not ready:
+        st.stop()  # Stop further execution if `wpasupplicant` is not ready
+
+    st.markdown("Press the 'Start Capture' button to begin capturing live RSSI data.")
+    
+    # Load the trained model
+    model_path = os.path.join(os.getcwd(), "models/random_forest_model.pkl")
+    if os.path.exists(model_path):
+        selected_model = joblib.load(model_path)
+    else:
+        st.error(f"Model file not found at {model_path}. Ensure the file exists.")
+        st.stop()
 
     # Create placeholders for the chart and prediction
     chart_placeholder = st.empty()

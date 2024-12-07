@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import plotly.express as px
 import joblib
-from streamlit_js_eval import streamlit_js_eval as st_js_eval
 import os
 
 # Set Streamlit page configuration - MUST BE FIRST
@@ -23,6 +22,28 @@ if os.path.exists(model_path):
 else:
     st.error(f"Model file not found at {model_path}. Ensure the file exists.")
     st.stop()
+
+# JavaScript to Fetch Signal Strength
+def fetch_signal_strength():
+    html_code = """
+    <script>
+        async function getSignalStrength() {
+            if ('connection' in navigator) {
+                let downlink = navigator.connection.downlink || -100;
+                document.getElementById("signal-strength").innerText = downlink;
+            } else {
+                document.getElementById("signal-strength").innerText = -100;
+            }
+        }
+        getSignalStrength();
+    </script>
+    <div>
+        <p>Signal Strength: <span id="signal-strength">-100</span> Mbps</p>
+    </div>
+    """
+    st.components.v1.html(html_code, height=100)
+    signal = st.text_input("Enter the fetched signal strength manually:")
+    return float(signal) if signal else -100
 
 # Preprocess live RSSI data
 def preprocess_live_rssi(data):
@@ -66,19 +87,10 @@ def main():
         "This app uses real-time Wi-Fi signal strength (RSSI) data captured directly from your browser to predict gestures in real-time."
     )
 
-    # Execute JavaScript to fetch network signal strength
-    js_code = """
-    async function getSignalStrength() {
-        if ('connection' in navigator) {
-            return navigator.connection.downlink || -100;
-        }
-        return -100; // Default if no API available
-    }
-    getSignalStrength();
-    """
-    signal_strength = st_js_eval(js_code, label="Fetch Signal Strength", key="network_signal")
+    # Fetch signal strength using embedded JavaScript
+    signal_strength = fetch_signal_strength()
 
-    if signal_strength is not None:
+    if signal_strength != -100:
         st.info(f"Captured Signal Strength: {signal_strength} Mbps")
 
     # Capture and process data
@@ -116,9 +128,6 @@ def main():
             predicted_gesture = predict_gesture(sequence, selected_model)
             prediction_placeholder.write(f"Predicted Gesture: **{predicted_gesture}**")
             capturing = False  # Stop capturing after prediction
-
-        # Sleep interval can be adjusted as needed
-        time.sleep(0.01)
 
 if __name__ == "__main__":
     main()

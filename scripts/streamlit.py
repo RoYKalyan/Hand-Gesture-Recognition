@@ -1,10 +1,10 @@
-import streamlit as st
 import time
 import numpy as np
 import pandas as pd
+import streamlit as st
 import plotly.express as px
 import joblib
-from scapy.all import sniff, Dot11
+from pywifi import PyWiFi, const
 import os
 
 # Set Streamlit page configuration - MUST BE FIRST
@@ -24,22 +24,17 @@ if os.path.exists(model_path):
 else:
     st.error(f"Model file not found at {model_path}. Ensure the file exists.")
 
-# RSSI data collection function
+# RSSI data collection function using pywifi
 def get_live_rssi_data():
-    """Capture RSSI data using scapy."""
+    """Capture RSSI data using pywifi."""
     try:
-        rssi_values = []
+        wifi = PyWiFi()
+        iface = wifi.interfaces()[0]  # Select the first Wi-Fi interface
+        iface.scan()  # Start scanning for networks
+        time.sleep(1)  # Wait for scan results to populate
+        scan_results = iface.scan_results()
 
-        def packet_handler(pkt):
-            if pkt.haslayer(Dot11):
-                if pkt.type == 0 and pkt.subtype == 8:  # Beacon frame
-                    rssi = pkt.dBm_AntSignal
-                    if rssi is not None:
-                        rssi_values.append(rssi)
-
-        # Capture packets for a short duration
-        sniff(prn=packet_handler, timeout=2, iface="wlan0mon", store=False)
-        
+        rssi_values = [network.signal for network in scan_results]
         if rssi_values:
             avg_rssi = np.mean(rssi_values)
             return avg_rssi

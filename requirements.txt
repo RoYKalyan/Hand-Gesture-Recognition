@@ -3,5 +3,4 @@ numpy
 pandas
 plotly
 joblib
-scapy
-scikit-learn
+pywifi

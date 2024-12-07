@@ -4,3 +4,4 @@ pandas
 plotly
 joblib
 scapy
+scikit-learn

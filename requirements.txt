@@ -4,4 +4,4 @@ pandas
 plotly
 joblib
 streamlit-js-eval
-scikit-learn
+scikit-learn==1.4.1.post1

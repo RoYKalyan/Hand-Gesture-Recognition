@@ -12,9 +12,9 @@ GESTURES = ["swipe", "push-pull", "circular", "unidentified"]
 # Initialize Wi-Fi client
 wifi_interface = CWWiFiClient.sharedWiFiClient().interface()
 
-data_seq = '1'
+data_seq = '3'
 # Load the trained model
-model_path = "../models/" + data_seq + "/" + "stacking_model.pkl"
+model_path = "../models/" + data_seq + "/" + "random_forest_model.pkl"
 #/Users/kalyanroy/Desktop/cap/Hand-Gesture-Recognition/models/1/svm_model.pkl
 print("Model Path====", model_path)
 selected_model = joblib.load(model_path)

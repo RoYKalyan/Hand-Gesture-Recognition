@@ -40,4 +40,4 @@ ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
 ENV STREAMLIT_SERVER_ENABLE_CORS=false
 
 # Command to run the Streamlit app
-CMD ["streamlit", "run", "scripts/inference_mac.py"]
+CMD ["streamlit", "run", "scripts/inference_linux.py"]

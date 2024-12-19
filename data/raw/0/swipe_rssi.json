@@ -1,0 +1,11592 @@
+[{
+  "timestamp": "2024-10-09 23:34:18.434398",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:18.446134",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:18.985423",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:18.998590",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:19.556477",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:19.569753",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:20.122288",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:20.135300",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:20.684671",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:20.698082",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:21.259768",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:21.272949",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:21.832449",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:21.845585",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:22.402501",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:22.415660",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:22.966426",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:22.979662",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:23.527767",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:23.540727",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:24.099678",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:24.112807",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:24.667217",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:24.680406",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:25.227267",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:25.240517",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:25.791516",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:25.802937",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:26.362433",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:26.375585",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:26.933702",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:26.945111",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:27.493252",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:27.504650",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:28.056327",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -29,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:28.069304",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.341891",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.353718",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.366442",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.923590",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.935800",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:32.947054",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:33.504809",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:33.517625",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:33.530477",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.087717",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.099112",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.110323",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.660117",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.673325",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:34.686245",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.245125",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.256492",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.267719",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.823326",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.836644",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:35.847874",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.402372",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.413734",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.426672",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.970313",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.981715",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:36.992908",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:37.541799",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:37.553950",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:37.565260",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.118825",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.130268",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.143124",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.692676",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.704052",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:38.715833",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.263437",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.275498",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.286733",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.835205",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.846625",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:39.857848",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:40.415491",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:40.428794",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:40.441854",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.001618",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.014077",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.027109",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.576743",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.588109",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:41.599352",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:42.157537",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:42.169637",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:42.180891",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:46.407451",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:46.419406",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:46.430845",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:46.989259",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:47.000655",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:47.011858",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:47.571941",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:47.584153",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:47.595459",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.145450",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.156871",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.167290",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.715272",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.727406",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:48.740362",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.289151",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.302343",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.313589",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.862273",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.873668",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:49.884896",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:50.447700",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:50.459857",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:50.471108",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.015107",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.028282",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.041267",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.596680",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.608093",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:51.619295",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.178864",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.190243",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.201489",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.757407",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.768797",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:52.780006",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.327342",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.341519",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.352750",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.913391",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.926575",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:53.939494",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:54.498706",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:54.510069",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:54.521299",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.080052",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.093319",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.104568",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.653720",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.666887",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:55.679821",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:56.238311",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:56.250344",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:34:56.263362",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:00.591615",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:00.605543",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:00.617069",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.159238",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.172458",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.185413",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.198087",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.210917",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.223040",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.783989",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.796682",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.809793",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.822835",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.835775",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:01.848546",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.408422",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.420298",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.433315",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.446189",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.459100",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:02.470788",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.030131",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.040953",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.054078",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.067107",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.079876",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.091339",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.638643",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.650044",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.663104",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.676284",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.689493",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:03.702352",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.258441",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.271525",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.284565",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.297923",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.309529",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.322499",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.883170",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.896353",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.909402",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.922337",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.935176",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:04.947946",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.508743",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.521727",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.534721",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.547689",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.559221",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:05.570904",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.130970",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.144162",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.157224",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.170118",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.183090",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.194185",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.748030",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.759480",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.772612",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.785554",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.798410",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:06.810155",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.364549",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.375996",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.387141",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.400318",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.413282",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.426331",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.981103",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:07.991876",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.005015",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.017939",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.030735",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.043634",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.596730",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.608070",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.619242",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.630473",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.643827",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:08.656937",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.209527",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.222662",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.235879",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.249050",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.261944",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.274852",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.827628",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.838997",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.852057",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.865167",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.878086",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:09.890935",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.448065",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.459077",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.472159",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.485176",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.498018",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:10.510937",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:14.745529",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:14.757403",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:14.768689",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:14.780181",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:14.791651",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.350663",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.363826",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.374996",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.388121",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.401153",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.414134",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.426991",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.439953",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:15.993331",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.006438",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.019449",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.032373",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.045271",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.056225",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.069256",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.082452",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.639568",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.652755",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.664472",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.677264",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.690171",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.702575",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.715411",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:16.728482",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.275348",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.288557",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.301300",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.314141",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.327197",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.337932",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.350891",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.363750",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.914481",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.926188",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.939349",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.952329",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.965123",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.978044",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:17.990918",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.002606",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.557670",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.570846",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.583835",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.596614",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.609423",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.622232",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.635115",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:18.648128",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.191182",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.204386",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.217307",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.230124",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.243055",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.255971",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.268846",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.281717",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.832079",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.845290",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.858367",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.869543",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.882328",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.895114",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.907995",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:19.920828",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.474355",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.485804",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.498748",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.511640",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.524430",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.535944",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.548785",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:20.561793",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.115451",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.128589",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.141504",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.154340",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.167111",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.179921",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.192894",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.205724",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.761130",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.774198",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.787206",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.800077",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.812887",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.824183",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.835734",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:21.848568",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.390277",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.401365",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.414218",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.427038",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.439747",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.452505",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.465255",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:22.478113",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.036824",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.049950",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.063530",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.077765",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.090757",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.103998",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.116858",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.129599",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.683327",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.696418",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.709362",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.722211",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.735013",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.747743",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.760556",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:23.773349",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.329121",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.342479",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.355677",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.368630",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.381372",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.394274",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.407134",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:24.420163",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:28.680496",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:28.694484",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:28.706069",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:28.717712",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:28.729921",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.278306",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.290326",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.301566",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.312836",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.326132",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.339312",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.352270",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.365079",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.918710",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.931950",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.944946",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.957993",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.969417",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.982276",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:29.995180",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.008113",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.564033",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.576136",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.589270",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.602151",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.614903",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.626025",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.638869",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:30.651671",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.196684",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.209922",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.223050",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.236424",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.248849",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.261721",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.274508",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.285222",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.834794",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.845485",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.858387",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.871423",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.884251",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.896957",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.909763",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:31.922573",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.472921",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.484932",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.497995",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.511030",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.522403",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.534877",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.547698",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:32.560612",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.116495",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.129716",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.140745",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.153964",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.166933",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.178121",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.190982",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.202030",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.748166",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.761312",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.774272",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.787135",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.799880",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.812597",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.825388",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:33.836631",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.392116",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.405394",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.418832",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.429586",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.442545",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.455395",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.468189",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:34.480884",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.035210",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.046308",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.059531",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.073427",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.088526",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.101384",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.114060",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.126802",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.670522",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.683810",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.696290",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.709164",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.722016",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.734821",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.747670",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:35.760592",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.304129",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.315446",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.328656",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.341653",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.354608",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.366291",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.379081",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.392056",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.940390",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.951257",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.963698",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.975723",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:36.986187",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.001400",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.014572",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.027400",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.584947",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.596053",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.609066",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.622002",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.634833",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.647625",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.660346",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:37.673105",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.226839",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.238232",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.251320",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -28,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.264117",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.276889",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.288729",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.301527",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:38.314291",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:42.544317",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:42.556405",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:42.567802",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:42.579337",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:42.590769",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.146125",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.158199",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.169167",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.180493",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.192497",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.742527",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.754629",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.766125",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.777402",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:43.790558",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.352076",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.363475",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.374711",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.387915",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.400923",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.963491",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.974564",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.986213",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:44.999261",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.012058",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.562885",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.574866",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.587961",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.599698",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:45.612658",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.173281",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.186437",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.198944",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.212009",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.225159",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.784578",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.795862",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.808294",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.821337",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:46.834298",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:47.394049",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:47.405442",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:47.416771",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:47.429943",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:47.442975",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.000649",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.013935",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.027101",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.040161",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.053072",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.613430",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.624821",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.636757",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.649909",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:48.662754",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.217347",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.230588",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.243708",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.256841",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.269877",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.828357",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.839760",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.851132",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.864005",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:49.877126",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:50.435456",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:50.448726",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:50.461833",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:50.475037",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:50.488013",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.036923",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.049432",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.062385",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.073672",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.086781",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.644954",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.656357",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.667675",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.680584",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:51.691204",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:52.252353",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:52.263745",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:52.276767",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:52.287692",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -96,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:52.300675",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -25,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:56.539812",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:56.551794",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:56.563218",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:56.576480",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.132773",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.146148",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.157471",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.168335",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.729899",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.741261",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.752471",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:57.765526",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.324708",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.337846",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.349397",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.360653",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.916379",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.927567",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.938862",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:58.950156",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:59.508580",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:59.521766",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:59.534776",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:35:59.547696",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.102152",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.114308",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.127288",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.140406",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.699446",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.710561",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.721891",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:00.732776",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.285453",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.297528",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.310543",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.323470",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.879730",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.891132",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.902368",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:01.915437",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:02.473292",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:02.486596",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:02.499403",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:02.510662",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.068854",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.079611",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.092682",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.104775",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.654481",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.666073",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.679086",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:03.692028",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.250323",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.263613",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.274909",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.286296",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.846983",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.858367",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.869601",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:04.880945",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:05.435783",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:05.447874",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:05.459137",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:05.470095",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:06.021987",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:06.033380",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -32,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:06.044693",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:06.055244",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -21,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.281808",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.295770",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.307272",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.318856",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.873313",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.886490",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.897717",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:10.908949",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:11.467698",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:11.481020",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:11.492252",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:11.503460",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.061539",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.074752",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.086948",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.100045",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.651056",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.662420",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.673660",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:12.685667",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.235938",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.248157",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.261136",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.274052",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.825203",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.836629",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.847837",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:13.860764",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:14.419607",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:14.431686",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:14.444604",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:14.457498",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.008382",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.019797",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.031096",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.041642",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.600063",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.612041",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.623303",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:15.634645",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.196968",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.210156",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.221449",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.232726",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.782752",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.795922",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.808790",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:16.819876",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.371877",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.383998",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.395276",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.406521",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.966321",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.977687",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:17.988913",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:18.002068",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:18.563473",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:18.574879",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:18.588040",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:18.599343",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.152585",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.163948",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.175197",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.186579",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.738581",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.750765",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.763708",
+  "ssid": "shivankruty",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-09 23:36:19.776759",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:14.927102",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:14.940757",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:14.954093",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:14.967354",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:14.978796",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:15.535505",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:15.548858",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:15.561174",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:15.572632",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:15.585840",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.141742",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.154982",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.168137",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.178654",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.191628",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.742655",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.753755",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.766682",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.779191",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:16.789978",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.334998",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.346416",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.357629",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.368839",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.381846",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.934573",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.946474",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.959438",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.972519",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:17.985408",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:18.536685",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:18.550020",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:18.562957",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:18.574264",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:18.587546",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.143421",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.154842",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.166094",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.179288",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.190060",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.748355",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.759795",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.771046",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.782408",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:19.794062",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.340819",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.352221",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.363461",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.374767",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.386091",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.942840",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.954777",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.966038",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.976701",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:20.989849",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:21.929925",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:21.942404",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:21.955727",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:21.968986",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:21.982002",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.522761",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.534103",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.544595",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.557633",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.570796",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.582961",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:22.595964",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.148548",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.160034",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.172956",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.186090",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.199037",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.211974",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.224932",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.783984",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.795374",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.808370",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.821274",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.834099",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.846992",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:23.859731",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.410276",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.421644",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.434601",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.447602",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.460431",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.473654",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:24.484813",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.041502",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.053617",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.064790",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.077766",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.090612",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.103485",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.116340",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.668030",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.679714",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.692565",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.705571",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.718705",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.732160",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:25.745148",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -24,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.311755",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.325008",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.338014",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.350946",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.363843",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.374653",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.921384",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.934596",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.947682",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.958593",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.971598",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:26.983174",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.532574",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.545696",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.558777",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.571883",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.584856",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:27.597788",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.147449",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.160645",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.173562",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.186681",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.199701",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.210310",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.764546",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.778644",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.791721",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.804841",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.817877",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:28.830809",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.373494",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.384893",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.397848",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.410738",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.423737",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.436825",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.986878",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:29.998268",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.010054",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.021282",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.031863",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.044895",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.601973",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.613122",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.624427",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.635808",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.646965",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:30.660042",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.219290",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.230138",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.243169",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.253641",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.266551",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.279439",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.829658",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.841077",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.852365",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.864039",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.877083",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:31.889951",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:32.444236",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:32.457470",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:32.470533",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:32.482565",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.037976",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.050085",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.063021",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.074292",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.621873",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.632703",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.643977",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:33.656931",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.206711",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.220059",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.231282",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.242555",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.795976",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.807424",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.818629",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:34.829833",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:35.382499",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:35.393884",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:35.405232",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:35.417766",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.380266",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.393511",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.406327",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.420084",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.964594",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.977191",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:36.989951",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.001214",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.012562",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.025505",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.581106",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.592515",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.603772",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.617008",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.629047",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:37.641984",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.192430",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.204418",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.217318",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.230326",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.243285",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.256031",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.813161",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.824536",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.835830",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.846746",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.859805",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:38.872608",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.426043",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.439211",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.452287",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.465197",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.478143",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:39.491116",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.046214",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.058133",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.071200",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.084306",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.097275",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -93,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.110045",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.661379",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.674529",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.687571",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.700654",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.713635",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:40.726647",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -26,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.274172",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.287383",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.300430",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.313388",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.326341",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.337106",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.349945",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.899951",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.912954",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.925949",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.938957",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.951880",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.964749",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:41.978003",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.526620",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.539965",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.552895",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.565813",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.578643",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.589143",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:42.601953",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.150533",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.163726",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.176815",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.189696",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.202721",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.213385",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.226576",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.782253",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.795168",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.808311",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.821329",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.834388",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.847258",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:43.860090",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.416351",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.428407",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.441461",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.453487",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.466673",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.480335",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:44.493092",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.041905",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.055027",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.067950",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.080842",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.093659",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.106429",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.119270",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.669314",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.681393",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.694531",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.707508",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.720509",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.732122",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:45.745246",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.299502",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.310581",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.323119",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.337056",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.349975",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.362816",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.375625",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.929713",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.941743",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.952291",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.965318",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:46.978192",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:47.534140",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:47.547420",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:47.560424",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:47.571774",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:47.584719",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.142532",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.154625",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.167830",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.179665",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.192560",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.739336",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.752542",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.765490",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.778417",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:48.791540",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.339458",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.352824",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.365776",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.378835",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.392100",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.949426",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.962672",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.975595",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:49.988548",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:50.001617",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:51.463669",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:51.476714",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:51.489382",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:51.500786",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.054475",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.067600",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.080478",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.091742",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.104882",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.116773",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.129439",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.687761",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.701266",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.711853",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.724866",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.737768",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.750742",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:52.763677",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.319199",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.329883",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.342830",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.355693",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.368560",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.381396",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.394208",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.951215",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.964336",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.977207",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:53.990059",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.002868",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.015710",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.027229",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.578925",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.591060",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.604185",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.617122",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.629946",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.642811",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:54.655681",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.201408",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.214579",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.227616",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.238333",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.251267",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.264149",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.278169",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.827839",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.840017",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.853138",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.866137",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.879068",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.890723",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:55.903524",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.451872",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.462637",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.475644",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.486108",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.497354",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.510259",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:56.523100",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.074654",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.086814",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.099899",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.112458",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.125491",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.138379",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.151338",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.702052",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.713893",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.726937",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.739784",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.752682",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.764084",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:57.777770",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.324848",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.336751",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.349888",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.362872",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.923863",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.935253",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.946538",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:58.959482",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:59.508292",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:59.521408",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:59.533823",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:07:59.546838",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.100807",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.112932",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.125825",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.138996",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.700450",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.712525",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.723405",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:00.736438",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.283159",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.294555",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.305843",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.317106",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.861975",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.873428",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.884643",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:01.895877",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:02.448805",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:02.460254",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:02.471459",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:02.482700",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.037009",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.048890",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.061919",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.074900",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.622714",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.635949",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.647234",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:03.658691",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:04.205269",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:04.217394",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:04.230330",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:04.243216",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.221368",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.235344",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.248745",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.260674",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.803935",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.816113",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.829140",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:05.842170",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:06.400477",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:06.411828",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:06.423034",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:06.434272",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:06.991277",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.002546",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.013830",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.025060",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.576058",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.587482",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.598729",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:07.610036",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.160119",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.173260",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.184493",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.195714",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.756268",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.768278",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.781262",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:08.794159",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.344683",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.357798",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.369972",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.382999",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.928706",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.941892",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.954819",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.967917",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:09.980976",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:10.533197",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:10.546403",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:10.559325",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:10.572213",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:10.585381",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.142447",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.155631",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.168945",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.180131",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.193047",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.744118",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.756259",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.769261",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.782308",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:11.793710",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.344021",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.357138",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.369603",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -30,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.382746",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.395835",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.955632",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.967023",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.978350",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:12.989610",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.000294",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.550754",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.563904",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.576766",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.588011",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:13.600605",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.158275",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.170304",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.183377",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.196340",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.209290",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.762397",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.775605",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.788651",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.801766",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:14.814682",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.364362",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.375898",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.388848",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.400420",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.413619",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.967957",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.979377",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:15.992441",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.005502",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.017148",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.573582",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.586666",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.599692",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.612772",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:16.624185",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.180539",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.192649",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.205838",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.216675",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.229555",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.785597",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.798905",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.810156",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.821573",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:17.834524",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.380964",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.392533",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.403871",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.415214",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.426769",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.972643",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.984063",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:18.995294",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:19.008011",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:19.021129",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:20.488910",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:20.501170",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:20.513788",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:20.525240",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:20.538825",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.089051",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.100448",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.111692",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.122951",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.134528",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.682221",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.695155",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.708239",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.721318",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:21.732495",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.280993",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.293934",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.306939",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.319076",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.332177",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.880453",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.891845",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.903058",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.914258",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:22.926812",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:23.472066",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:23.484164",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -92,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:23.495469",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:23.506716",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:23.519775",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.064350",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.077576",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.090471",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.636998",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.649197",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:24.662243",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.203971",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.215906",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.227835",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.778889",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.789789",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:25.802809",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.354341",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.367552",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.379566",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.929743",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.942585",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:26.955616",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:27.505146",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:27.516533",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:27.527769",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.078646",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.090054",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.101325",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.659842",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.671219",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:28.682422",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.239002",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.250403",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.261581",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.810682",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.823836",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:29.836784",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.396552",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.408048",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.419272",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.966227",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.977540",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:30.988718",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:31.545359",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:31.556605",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:31.567845",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.113142",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.124537",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.135745",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.688244",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.701489",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:32.714418",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:33.262017",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:33.273344",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:33.284547",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:34.770538",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:34.784275",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:34.797574",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:34.809090",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.368805",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.380209",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.391517",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.402762",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.954778",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.966921",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.978027",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:35.989305",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:36.549977",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:36.562166",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:36.575087",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:36.586323",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.130022",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.141410",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.152639",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.163889",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.739238",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.750670",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.762015",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:37.773208",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -22,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.324702",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.337829",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.350788",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.361898",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.374944",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.920700",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.932830",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.945833",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.958880",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:38.972093",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:39.521397",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:39.534627",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:39.546611",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:39.559666",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:39.572757",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.121970",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.133925",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.146862",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.159943",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.170814",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.727339",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.738727",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.751242",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.764458",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:40.777504",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.326304",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.337702",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.350630",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.362805",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.374953",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.937872",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.951190",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.962609",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.975644",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:41.988602",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:42.548219",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:42.559588",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:42.570793",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:42.582108",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:42.595189",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.150681",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.162066",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.173418",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.186615",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.197898",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.757899",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.769288",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.780567",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.793527",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:43.806339",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.377663",
+  "ssid": "JioFiber-VBD9B",
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.390844",
+  "ssid": "FTTH-BSNL",
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.402257",
+  "ssid": "JioFiber-cTR3Q_5G",
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.415234",
+  "ssid": "Airtel_Tuhinangshu",
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.428195",
+  "ssid": "JioFiber-cTR3Q",
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.985374",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:44.996770",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.008024",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.019370",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.032360",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.579069",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.592353",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.605301",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.618487",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:45.630074",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.182462",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.195605",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.206961",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.218400",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.231496",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.788370",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -94,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.800412",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -95,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.813435",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -91,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.824739",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -31,
+  "gesture": "swipe"
+}
+,
+{
+  "timestamp": "2024-10-10 00:08:46.838027",
+  "ssid": null,
+  "bssid": null,
+  "rssi": -23,
+  "gesture": "swipe"
+}
+]
